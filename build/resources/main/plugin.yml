@@ -1,0 +1,7 @@
+name: Eltrabug
+version: '1.0'
+main: eltrabug.eltrabug.Eltrabug
+api-version: 1.18
+authors: [ sullaim ]
+description: Make Eltra Bug
+website: https://github.com/rimurutempestj/EltraBug
